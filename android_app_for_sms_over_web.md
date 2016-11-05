@@ -9,6 +9,8 @@ It would be nice to have this on android as well, but without hosting any privat
  Basically sends texts from a proprietary web interface
 * [ShellMS](https://f-droid.org/repository/browse/?fdid=com.android.shellms) -
  This allows to send texts over ADB
+* [SMSync](http://smssync.ushahidi.com/) - 
+ Turns phone into a webservice (web API) that accepts requests to send text messages.
 
 
 ## Expected flow
