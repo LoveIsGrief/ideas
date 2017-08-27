@@ -1,6 +1,6 @@
 # Goal
 
-Easy reading and listening of books in the public domain. 
+Easy reading and listening of books in the public domain.
 
 It should be possible to read the the books either by a fixed number of words, lines or paragraphs with or without audio.
 
@@ -16,6 +16,9 @@ It should be possible to read the the books either by a fixed number of words, l
 ## Make own website on open web
 
 ## Make own website on p2p web
+
+* [Zeronet](https://zeronet.io/)
+* [IPFS](https://ipfs.io/)
 
 
 
