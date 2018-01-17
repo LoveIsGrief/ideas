@@ -18,13 +18,16 @@ Dictionaries are already full of words with their corresponding phonems, so it m
 
 Training a neural net \(or whatever else exists at the moment\) might be one way of doing it. The training set could a hand picked list of words \(or just phonems\) and their pronunciation by a robot in the native language with the equivalent jumble of letters given to a robot configured in the foreign language. That would be guided training.
 
-Unguided training could use the same principle without the solution basically:
+Unspervised training could use the same principle without the solution basically:
 
 * provide a word and its phonems \(or maybe just phonems\)
 * generate a recording with a robot in the native language
 * output a string of letters that when given to a robot in the foreign language sound the same as the original recording
 
+**Terms to search**:
+
+* [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
+* [Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)
+
 It sounds super naive and I'm sure that's not how it works, but anyway...
-
-
 
