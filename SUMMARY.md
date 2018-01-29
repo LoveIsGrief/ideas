@@ -9,4 +9,5 @@
 * [IMDB to TMBD account mover](imdb-to-tmbd-account-mover.md)
 * [Mailing list reader \(GUI or website\)](mailing-list-reader-gui-or-website.md)
 * [Pronunciation trainer](pronunciation-trainer.md)
+* [Daily Recommended Random Food](daily-recommended-random-food.md)
 
