@@ -10,4 +10,5 @@
 * [Mailing list reader \(GUI or website\)](mailing-list-reader-gui-or-website.md)
 * [Pronunciation trainer](pronunciation-trainer.md)
 * [Daily Recommended Random Food](daily-recommended-random-food.md)
+* [IPFS Share / Discovery Site](ipfs-share-discovery.md)
 
