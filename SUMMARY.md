@@ -11,4 +11,5 @@
 * [Pronunciation trainer](pronunciation-trainer.md)
 * [Daily Recommended Random Food](daily-recommended-random-food.md)
 * [IPFS Share / Discovery Site](ipfs-share-discovery.md)
+* [P2P reddit](p2p-reddit.md)
 
