@@ -12,4 +12,6 @@
 * [Daily Recommended Random Food](daily-recommended-random-food.md)
 * [IPFS Share / Discovery Site](ipfs-share-discovery.md)
 * [P2P reddit](p2p-reddit.md)
+* [Decentralized firefox sync](decentralized-firefox-sync.md)
+* [Plugin manager for OBS-Studio](addon-manager-for-obs-studio.md)
 
